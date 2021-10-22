@@ -1,6 +1,7 @@
 
-[ansible-server]
-localhost
+[QAServer]
+172.31.17.200
+
 
 [kube]
-172.31.39.56
+172.31.28.81
